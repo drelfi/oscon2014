@@ -1,7 +1,7 @@
 # Introduction
 
 This is the presentation given by Chad Naber and David Elfi at OSCON 2014 called
-"Big Data Analysis 0-60 in 90 days"
+["Big Data Analysis 0-60 in 90 days"](http://www.oscon.com/oscon2014/public/schedule/detail/34407)
 
 This presentation is based on IPython Notebook and needs to be built before using it.
 It also includes a precompiled version for a quick access.
@@ -15,6 +15,7 @@ The stack for build it requires:
 * Numpy
 * Scipy
 * scikit-learn
+* pydot
 
 Once the python packages are installed, the command to create a new version is:
 ```
