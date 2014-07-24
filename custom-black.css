@@ -1,0 +1,52 @@
+<style type="text/css">
+div.reveal {
+    overflow-y: auto;
+    overflow-x: hidden;
+}
+div.addthis_toolbox {
+    visibility: hidden;
+}
+.cm-s-ipython { background-color: black; color: lightblue; }
+.cm-s-ipython span.cm-keyword {color: #00ff00; font-weight: bold;}
+.cm-s-ipython span.cm-number {color: #ee88ee;}
+.cm-s-ipython span.cm-operator {color: lime; font-weight: bold;}
+.cm-s-ipython span.cm-meta {color: white;}
+.cm-s-ipython span.cm-comment {color: cyan; font-style: italic;}
+.cm-s-ipython span.cm-string {color: red;}
+.cm-s-ipython span.cm-error {color: darkred;}
+.cm-s-ipython span.cm-builtin {color: pink; font-weight: bold;}
+.CodeMirror pre.CodeMirror-cursor {color: white; border-left: 1px solid white;}
+.cm-s-ipython span.cm-variable {color: white;}
+div.text_cell_input  {   background-color: black;    color: white;}
+div.text_cell {   background-color: black;    color: white;}
+div#notebook {    background-color: black;     background-image: none;     color: white;}
+div.code_cell { background-color: black;    color: white;}
+div.metaedit .maintoolbar{    background-color: black;    color: white;}
+body{    background-color: black;    color: white;}
+#notebook_name {  background-color: #333333;    color: white; background-image:none;}
+span.ui-widget-content{  background-color: #333333;    color: white; background-image:none;}
+div.ui-widget-content{  background-color: #333333;    color: white; background-image:none;}
+div#ui-button ui-widget ui-state-default ui-corner-all ui-button-text-only output_collapsed vbox{  
+  background-color: black;    color: white;}
+div.input_area{    background-color: black;    color: white;}
+div.ui-widget-content { background-color: #333333; background-image: none;}
+div.input_prompt {color:#6666CC; font-weight: bold;}
+div.output_prompt {color:#CC6666; font-weight: bold;}
+div.output_text {color:white;}
+div.text_cell_render {color:white;}
+.pln {color:white} 
+.typ {color:#f9f}
+.lit {color:#BBB}
+.kwd {color:#3e3}
+.metaedit {background: transparent; border-color: transparent; color:white;}
+.ui-button-text {background: #112; color:white; border-color:666;}
+.ui-menubar  {background-color: transparent; background: transparent; background-image:none;}
+.ui-widget-header  {background-color: transparent; background: transparent; background-image:none;}
+.ui-helper-clearfix {background-color: transparent; background: transparent; background-image:none;}
+.ui-corner-all {background: #112; color: white;}
+.ui-widget  {background: #112; color: white;}
+.ui-widget-content {background: #112; color: white;}
+.reveal h1, .reveal h2, .reveal h3, .reveal h4, .reveal h5, .reveal h6 {color:white;}
+div.output_area pre {color:white;}
+.highlight {background-color: #222; color:white;}
+</style>
